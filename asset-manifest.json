@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GitHubPagesPractice/static/css/main.5e67458b.css",
+    "main.js": "/GitHubPagesPractice/static/js/main.94086d81.js",
+    "static/js/787.32032a02.chunk.js": "/GitHubPagesPractice/static/js/787.32032a02.chunk.js",
+    "index.html": "/GitHubPagesPractice/index.html",
+    "main.5e67458b.css.map": "/GitHubPagesPractice/static/css/main.5e67458b.css.map",
+    "main.94086d81.js.map": "/GitHubPagesPractice/static/js/main.94086d81.js.map",
+    "787.32032a02.chunk.js.map": "/GitHubPagesPractice/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e67458b.css",
+    "static/js/main.94086d81.js"
+  ]
+}
